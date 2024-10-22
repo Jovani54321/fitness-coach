@@ -18,5 +18,3 @@ driver.cpp: a file includes main function served as a menu and control the main 
 
 References:
 json.hpp: https://github.com/nlohmann/json
-HeapQueue.hpp: Class files/project 3
-
